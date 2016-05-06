@@ -1,0 +1,7 @@
+.row div {
+    height: 300px;
+    background: #333;
+    color: aqua;
+    line-height: 290px;
+    text-align: center
+}
