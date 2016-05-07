@@ -1,7 +1,25 @@
-.row div {
+/*div.col-md-4 {
     height: 300px;
     background: #333;
     color: aqua;
     line-height: 290px;
-    text-align: center
+    text-align: center;
+    border: solid 1px bisque;
+}
+.row {
+    background: yellow;
+}*/
+
+/*HEADER STYLE*/
+#header-site {
+    /*position: fixed;*/
+    width: 100%;
+    text-align: center;
+    background: gray;*/
+}
+
+.header-style {
+    border-right: solid 0.5px black;
+    border-left: solid 0.5px black;
+    height: 50px;
 }
